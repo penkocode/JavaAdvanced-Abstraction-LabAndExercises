@@ -1,6 +1,5 @@
 package softuni.homeworks;
 
-import java.math.BigInteger;
 import java.util.*;
 
 public class EncryptSortandPrintArray {
